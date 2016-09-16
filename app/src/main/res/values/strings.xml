@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Schhh</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Rechercher</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="searcheable">searcheable</string>
+</resources>
